@@ -1,0 +1,48 @@
+
+.boxip{
+    text-align: center;
+    border: 5px solid rgb(63, 62, 62);
+    background-color: rgb(63, 62, 62);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+body{
+    background-color: rgb(87, 181, 224);
+}
+#nav{
+    border: 7px solid rgb(53, 52, 52);
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Owner{
+    color: goldenrod;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(63, 62, 62);
+    border: 5px solid rgb(63, 62, 62);
+}
+.box{
+    background-color: rgb(63, 62, 62);
+}
+#admin{
+    color: rgb(194, 3, 3);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mod{
+    color: green;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#help{
+    color: aqua;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#build{
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
